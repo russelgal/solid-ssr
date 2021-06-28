@@ -40,5 +40,8 @@
     "shx": "^0.3.3",
     "solid-js": "^1.0.0-rc.10",
     "solid-styled-components": "^0.26.3"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
   }
 }
